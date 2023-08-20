@@ -1,0 +1,90 @@
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:1:Parsing the input string 'medium' yields Medium.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:1:Parsing the input string 'medium' yields Medium is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:1:Parsing the input string 'medium' yields Medium.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:3:Parsing the input string 'easy' yields Easy.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:3:Parsing the input string 'easy' yields Easy is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:3:Parsing the input string 'easy' yields Easy.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:5:Parsing the input string 'hard' yields Hard.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:5:Parsing the input string 'hard' yields Hard is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:5:Parsing the input string 'hard' yields Hard.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:7:Parsing the input string 'energy' yields Energy.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:7:Parsing the input string 'energy' yields Energy is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:7:Parsing the input string 'energy' yields Energy.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:10:Parsing the input string 'energy    ' yields Energy.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:10:Parsing the input string 'energy    ' yields Energy is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:10:Parsing the input string 'energy    ' yields Energy.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:12:Parsing the input string 'carrier 1 1 h' yields (Place_Ship ((1, 1), 'carrier', 'h')).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:12:Parsing the input string 'carrier 1 1 h' yields (Place_Ship ((1, 1), 'carrier', 'h')) is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:12:Parsing the input string 'carrier 1 1 h' yields (Place_Ship ((1, 1), 'carrier', 'h')).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:14:Parsing the input string 'battleship 1 1 h' yields (Place_Ship ((1, 1), 'battleship', 'h')).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:14:Parsing the input string 'battleship 1 1 h' yields (Place_Ship ((1, 1), 'battleship', 'h')) is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:14:Parsing the input string 'battleship 1 1 h' yields (Place_Ship ((1, 1), 'battleship', 'h')).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:16:Parsing the input string 'submarine 1 1 h' yields (Place_Ship ((1, 1), 'submarine', 'h')).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:16:Parsing the input string 'submarine 1 1 h' yields (Place_Ship ((1, 1), 'submarine', 'h')) is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:16:Parsing the input string 'submarine 1 1 h' yields (Place_Ship ((1, 1), 'submarine', 'h')).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:17:Parsing the input string 'submarine 6 7 v' yields (Place_Ship ((6, 7), 'submarine', 'v')).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:17:Parsing the input string 'submarine 6 7 v' yields (Place_Ship ((6, 7), 'submarine', 'v')) is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:17:Parsing the input string 'submarine 6 7 v' yields (Place_Ship ((6, 7), 'submarine', 'v')).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:19:Parsing the input string 'destroyer 6 7 v' yields (Place_Ship ((6, 7), 'destroyer', 'v')).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:19:Parsing the input string 'destroyer 6 7 v' yields (Place_Ship ((6, 7), 'destroyer', 'v')) is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:19:Parsing the input string 'destroyer 6 7 v' yields (Place_Ship ((6, 7), 'destroyer', 'v')).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:22:Parsing the input string 'bomb 1 1' yields (Bomb (1, 1)).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:22:Parsing the input string 'bomb 1 1' yields (Bomb (1, 1)) is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:22:Parsing the input string 'bomb 1 1' yields (Bomb (1, 1)).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:24:Parsing the input string 'bomb_row 3' yields (Bomb_row 3).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:24:Parsing the input string 'bomb_row 3' yields (Bomb_row 3) is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:24:Parsing the input string 'bomb_row 3' yields (Bomb_row 3).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:25:Parsing the input string ' bomb 1 1 ' yields (Bomb (1, 1)).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:25:Parsing the input string ' bomb 1 1 ' yields (Bomb (1, 1)) is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:25:Parsing the input string ' bomb 1 1 ' yields (Bomb (1, 1)).
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:28:Parsing the input string 'easy, ' yields invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:28:Parsing the input string 'easy, ' yields invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:28:Parsing the input string 'easy, ' yields invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:29:Parsing the input string 'easy 10' yields invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:29:Parsing the input string 'easy 10' yields invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:29:Parsing the input string 'easy 10' yields invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:31:Parsing the input string 'hard 9 9' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:31:Parsing the input string 'hard 9 9' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:31:Parsing the input string 'hard 9 9' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:33:Parsing the input string 'end_turn' yields invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:33:Parsing the input string 'end_turn' yields invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:33:Parsing the input string 'end_turn' yields invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:36:Parsing the input string 'Bomb_diagonal' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:36:Parsing the input string 'Bomb_diagonal' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:36:Parsing the input string 'Bomb_diagonal' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:37:Parsing the input string 'bomb diagonal' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:37:Parsing the input string 'bomb diagonal' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:37:Parsing the input string 'bomb diagonal' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:40:Parsing the input string 'battleship 3 v' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:40:Parsing the input string 'battleship 3 v' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:40:Parsing the input string 'battleship 3 v' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:42:Parsing the input string 'destroyer' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:42:Parsing the input string 'destroyer' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:42:Parsing the input string 'destroyer' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:44:Parsing the input string 'Place_ship ((1,1), carrier, h)' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:44:Parsing the input string 'Place_ship ((1,1), carrier, h)' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:44:Parsing the input string 'Place_ship ((1,1), carrier, h)' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:46:Parsing the input string 'bomb 6 7 h v' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:46:Parsing the input string 'bomb 6 7 h v' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:46:Parsing the input string 'bomb 6 7 h v' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:47:Parsing the input string 'bomb 6' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:47:Parsing the input string 'bomb 6' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:47:Parsing the input string 'bomb 6' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:50:Parsing the input string 'bomb 5 and 5' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:50:Parsing the input string 'bomb 5 and 5' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:50:Parsing the input string 'bomb 5 and 5' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:52:Parsing the input string 'bomb_col 4 5' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:52:Parsing the input string 'bomb_col 4 5' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:52:Parsing the input string 'bomb_col 4 5' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:54:Parsing the input string 'bomb_row 3 3' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:54:Parsing the input string 'bomb_row 3 3' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:54:Parsing the input string 'bomb_row 3 3' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:55:Parsing the input string 'bomb_row a' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:55:Parsing the input string 'bomb_row a' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:55:Parsing the input string 'bomb_row a' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:58:Parsing the input string 'Bomb_col 5' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:58:Parsing the input string 'Bomb_col 5' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:58:Parsing the input string 'Bomb_col 5' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Start test test suite for A2:59:Parsing the input string 'Bomb_row 3' raises invalid_format exception.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: Test test suite for A2:59:Parsing the input string 'Bomb_row 3' raises invalid_format exception is successful.
+2022-05-01T14:05:09+00:00 dhcp-vl2041-5749.eduroam.cornell.edu#02 I: End test test suite for A2:59:Parsing the input string 'Bomb_row 3' raises invalid_format exception.

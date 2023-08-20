@@ -1,0 +1,14 @@
+(** @canonical Battleship.Author *)
+module Author = Battleship__Author
+
+
+(** @canonical Battleship.Battleship_game *)
+module Battleship_game = Battleship__Battleship_game
+
+
+(** @canonical Battleship.Command *)
+module Command = Battleship__Command
+
+
+(** @canonical Battleship.Grid *)
+module Grid = Battleship__Grid
