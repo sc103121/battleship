@@ -1,0 +1,318 @@
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:0:Parsing the input string 'easy' yields Easy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:0:Parsing the input string 'easy' yields Easy is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:0:Parsing the input string 'easy' yields Easy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:2:Parsing the input string 'hard' yields Hard.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:2:Parsing the input string 'hard' yields Hard is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:2:Parsing the input string 'hard' yields Hard.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:4:Parsing the input string 'medium' yields Medium.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:4:Parsing the input string 'medium' yields Medium is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:4:Parsing the input string 'medium' yields Medium.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:6:Parsing the input string 'end' yields End_Turn.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:6:Parsing the input string 'end' yields End_Turn is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:6:Parsing the input string 'end' yields End_Turn.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:8:Parsing the input string 'quit' yields Quit.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:8:Parsing the input string 'quit' yields Quit is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:8:Parsing the input string 'quit' yields Quit.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:10:Parsing the input string 'energy    ' yields Energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:10:Parsing the input string 'energy    ' yields Energy is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:10:Parsing the input string 'energy    ' yields Energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:12:Parsing the input string 'carrier 1 1 h' yields (Place_Ship ((1, 1), 'carrier', 'h')).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:12:Parsing the input string 'carrier 1 1 h' yields (Place_Ship ((1, 1), 'carrier', 'h')) is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:12:Parsing the input string 'carrier 1 1 h' yields (Place_Ship ((1, 1), 'carrier', 'h')).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:14:Parsing the input string 'battleship 1 1 h' yields (Place_Ship ((1, 1), 'battleship', 'h')).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:14:Parsing the input string 'battleship 1 1 h' yields (Place_Ship ((1, 1), 'battleship', 'h')) is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:14:Parsing the input string 'battleship 1 1 h' yields (Place_Ship ((1, 1), 'battleship', 'h')).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:16:Parsing the input string 'submarine 1 1 h' yields (Place_Ship ((1, 1), 'submarine', 'h')).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:16:Parsing the input string 'submarine 1 1 h' yields (Place_Ship ((1, 1), 'submarine', 'h')) is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:16:Parsing the input string 'submarine 1 1 h' yields (Place_Ship ((1, 1), 'submarine', 'h')).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:18:Parsing the input string 'destroyer 1 1 h' yields (Place_Ship ((1, 1), 'destroyer', 'h')).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:18:Parsing the input string 'destroyer 1 1 h' yields (Place_Ship ((1, 1), 'destroyer', 'h')) is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:18:Parsing the input string 'destroyer 1 1 h' yields (Place_Ship ((1, 1), 'destroyer', 'h')).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:20:Parsing the input string 'bomb_diagonal' yields Bomb_diagonal.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:20:Parsing the input string 'bomb_diagonal' yields Bomb_diagonal is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:20:Parsing the input string 'bomb_diagonal' yields Bomb_diagonal.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:22:Parsing the input string 'bomb 1 1' yields (Bomb (1, 1)).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:22:Parsing the input string 'bomb 1 1' yields (Bomb (1, 1)) is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:22:Parsing the input string 'bomb 1 1' yields (Bomb (1, 1)).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:24:Parsing the input string 'bomb_row 3' yields (Bomb_row 3).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:24:Parsing the input string 'bomb_row 3' yields (Bomb_row 3) is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:24:Parsing the input string 'bomb_row 3' yields (Bomb_row 3).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:26:Parsing the input string 'bomb_col 4 ' yields (Bomb_col 2).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:26:Parsing the input string 'bomb_col 4 ' yields (Bomb_col 2) is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:26:Parsing the input string 'bomb_col 4 ' yields (Bomb_col 2).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:28:Parsing the input string 'bomb_cross 5 5' yields (Bomb_cross 5 5).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:28:Parsing the input string 'bomb_cross 5 5' yields (Bomb_cross 5 5) is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:28:Parsing the input string 'bomb_cross 5 5' yields (Bomb_cross 5 5).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:30:Parsing the input string 'bomb_square 5 5' yields (Bomb_square 5 5).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:30:Parsing the input string 'bomb_square 5 5' yields (Bomb_square 5 5) is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:30:Parsing the input string 'bomb_square 5 5' yields (Bomb_square 5 5).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:32:Parsing the input string 'bomb_diagonal 9 9' yields (Bomb_diagonal).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:32:Parsing the input string 'bomb_diagonal 9 9' yields (Bomb_diagonal) is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:32:Parsing the input string 'bomb_diagonal 9 9' yields (Bomb_diagonal).
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:34:Parsing the input string 'easy, ' yields invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:34:Parsing the input string 'easy, ' yields invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:34:Parsing the input string 'easy, ' yields invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:36:Parsing the input string 'medium 10' yields invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:36:Parsing the input string 'medium 10' yields invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:36:Parsing the input string 'medium 10' yields invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:38:Parsing the input string 'end, ' yields invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:38:Parsing the input string 'end, ' yields invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:38:Parsing the input string 'end, ' yields invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:40:Parsing the input string 'end-turn' yields invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:40:Parsing the input string 'end-turn' yields invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:40:Parsing the input string 'end-turn' yields invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:43:Parsing the input string 'I quit' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:43:Parsing the input string 'I quit' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:43:Parsing the input string 'I quit' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:45:Parsing the input string 'bomb diagonal' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:45:Parsing the input string 'bomb diagonal' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:45:Parsing the input string 'bomb diagonal' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:47:Parsing the input string 'submarine 3 3' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:47:Parsing the input string 'submarine 3 3' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:47:Parsing the input string 'submarine 3 3' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:49:Parsing the input string 'destroyer 5 5 V' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:49:Parsing the input string 'destroyer 5 5 V' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:49:Parsing the input string 'destroyer 5 5 V' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:51:Parsing the input string 'carrier h' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:51:Parsing the input string 'carrier h' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:51:Parsing the input string 'carrier h' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:52:Parsing the input string 'Place_ship ((1,1), carrier, h)' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:52:Parsing the input string 'Place_ship ((1,1), carrier, h)' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:52:Parsing the input string 'Place_ship ((1,1), carrier, h)' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:54:Parsing the input string 'bomb 6 7 h v' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:54:Parsing the input string 'bomb 6 7 h v' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:54:Parsing the input string 'bomb 6 7 h v' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:57:Parsing the input string 'bomb 5,5' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:57:Parsing the input string 'bomb 5,5' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:57:Parsing the input string 'bomb 5,5' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:59:Parsing the input string 'bomb center' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:59:Parsing the input string 'bomb center' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:59:Parsing the input string 'bomb center' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:61:Parsing the input string 'bomb_col a' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:61:Parsing the input string 'bomb_col a' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:61:Parsing the input string 'bomb_col a' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:63:Parsing the input string 'bomb_row a' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:63:Parsing the input string 'bomb_row a' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:63:Parsing the input string 'bomb_row a' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:65:Parsing the input string 'bomb_col 9, bomb_col 8' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:65:Parsing the input string 'bomb_col 9, bomb_col 8' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:65:Parsing the input string 'bomb_col 9, bomb_col 8' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:68:Parsing the input string 'Bomb_cross 3' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:68:Parsing the input string 'Bomb_cross 3' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:68:Parsing the input string 'Bomb_cross 3' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:69:Parsing the input string '   Bomb_cross 3 3 h' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:69:Parsing the input string '   Bomb_cross 3 3 h' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:69:Parsing the input string '   Bomb_cross 3 3 h' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:71:Parsing the input string 'Bomb-cross 3 3' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:71:Parsing the input string 'Bomb-cross 3 3' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:71:Parsing the input string 'Bomb-cross 3 3' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:73:Parsing the input string 'Bomb_square 3' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:73:Parsing the input string 'Bomb_square 3' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:73:Parsing the input string 'Bomb_square 3' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:76:Parsing the input string 'Bomb-square 3 3' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:76:Parsing the input string 'Bomb-square 3 3' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:76:Parsing the input string 'Bomb-square 3 3' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:77:Parsing the input string '  Bomb   square   7   7   ' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:77:Parsing the input string '  Bomb   square   7   7   ' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:77:Parsing the input string '  Bomb   square   7   7   ' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:80:Parsing the input string '  Bomb_diagonal 5 ' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:80:Parsing the input string '  Bomb_diagonal 5 ' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:80:Parsing the input string '  Bomb_diagonal 5 ' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:82:Parsing the input string '  Bomb   diagonal   ' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:82:Parsing the input string '  Bomb   diagonal   ' raises invalid_format exception is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:82:Parsing the input string '  Bomb   diagonal   ' raises invalid_format exception.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:84:easy mode has max bomb of 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:84:easy mode has max bomb of 3 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:84:easy mode has max bomb of 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:86:ships list is empty for player 2 initially in easy mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:86:ships list is empty for player 2 initially in easy mode is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:86:ships list is empty for player 2 initially in easy mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:87:bombs list is empty for player 1 initially in easy mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:87:bombs list is empty for player 1 initially in easy mode is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:87:bombs list is empty for player 1 initially in easy mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:90:both players have 0 energy at the beginning of the game in easy mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:90:both players have 0 energy at the beginning of the game in easy mode is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:90:both players have 0 energy at the beginning of the game in easy mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:92:medium mode has max bomb of 5.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:92:medium mode has max bomb of 5 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:92:medium mode has max bomb of 5.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:94:ships list is empty for both players initially in medium mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:94:ships list is empty for both players initially in medium mode is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:94:ships list is empty for both players initially in medium mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:96:bombs list is empty for both players initially in medium mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:96:bombs list is empty for both players initially in medium mode is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:96:bombs list is empty for both players initially in medium mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:97:player 1 has 0 energy at the beginning of the game in medium mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:97:player 1 has 0 energy at the beginning of the game in medium mode is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:97:player 1 has 0 energy at the beginning of the game in medium mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:99:hard mode has max ship of 8.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:99:hard mode has max ship of 8 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:99:hard mode has max ship of 8.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:101:ships list is empty for player 1 in hard mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:101:ships list is empty for player 1 in hard mode is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:101:ships list is empty for player 1 in hard mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:103:bomb list is empty for player 1 in hard mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:103:bomb list is empty for player 1 in hard mode is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:103:bomb list is empty for player 1 in hard mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:105:player 1 has 0 energy at the beginning of the game in hard mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:105:player 1 has 0 energy at the beginning of the game in hard mode is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:105:player 1 has 0 energy at the beginning of the game in hard mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:107:ship type of 'carrier' is Carrier.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:107:ship type of 'carrier' is Carrier is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:107:ship type of 'carrier' is Carrier.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:109:ship type of 'submarine' is Submarine.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:109:ship type of 'submarine' is Submarine is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:109:ship type of 'submarine' is Submarine.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:112:size of a carrier ship is 5.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:112:size of a carrier ship is 5 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:112:size of a carrier ship is 5.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:113:size of a battleship ship is 4.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:113:size of a battleship ship is 4 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:113:size of a battleship ship is 4.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:116:energy of initial state is 0 for player 1 in easy mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:116:energy of initial state is 0 for player 1 in easy mode is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:116:energy of initial state is 0 for player 1 in easy mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:118:energy of initial state is 0 for player 1 in medium mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:118:energy of initial state is 0 for player 1 in medium mode is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:118:energy of initial state is 0 for player 1 in medium mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:120:energy of initial state is 0 for player 1 in hard mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:120:energy of initial state is 0 for player 1 in hard mode is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:120:energy of initial state is 0 for player 1 in hard mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:121:energy of initial state is 0 for player 2 in hard mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:121:energy of initial state is 0 for player 2 in hard mode is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:121:energy of initial state is 0 for player 2 in hard mode.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:123:changing the energy of initial state of player 2 in easy mode by 3 changed the energy to 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:123:changing the energy of initial state of player 2 in easy mode by 3 changed the energy to 3 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:123:changing the energy of initial state of player 2 in easy mode by 3 changed the energy to 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:125:changing the energy of initial state of player 2 in medium mode by 3 changed the energy to 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:125:changing the energy of initial state of player 2 in medium mode by 3 changed the energy to 3 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:125:changing the energy of initial state of player 2 in medium mode by 3 changed the energy to 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:127:changing the energy of initial state of player 2 in hard mode by 3 changed the energy to 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:127:changing the energy of initial state of player 2 in hard mode by 3 changed the energy to 3 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:127:changing the energy of initial state of player 2 in hard mode by 3 changed the energy to 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:129:changing the energy of initial state of player 2 in easy mode by -3 changed the energy to -3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:129:changing the energy of initial state of player 2 in easy mode by -3 changed the energy to -3 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:129:changing the energy of initial state of player 2 in easy mode by -3 changed the energy to -3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:131:changing the energy of initial state of player 2 in medium mode by -3 changed the energy to -3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:131:changing the energy of initial state of player 2 in medium mode by -3 changed the energy to -3 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:131:changing the energy of initial state of player 2 in medium mode by -3 changed the energy to -3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:134:changing the energy of initial state of player 1 in easy mode by 0 did not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:134:changing the energy of initial state of player 1 in easy mode by 0 did not change the energy is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:134:changing the energy of initial state of player 1 in easy mode by 0 did not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:136:changing the energy of initial state of player 1 in medui mode by 0 did not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:136:changing the energy of initial state of player 1 in medui mode by 0 did not change the energy is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:136:changing the energy of initial state of player 1 in medui mode by 0 did not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:138:changing the energy of initial state of player 1 in hard mode by 0 did not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:138:changing the energy of initial state of player 1 in hard mode by 0 did not change the energy is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:138:changing the energy of initial state of player 1 in hard mode by 0 did not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:139:changing the energy of initial state of player 2 in hard mode by 0 did not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:139:changing the energy of initial state of player 2 in hard mode by 0 did not change the energy is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:139:changing the energy of initial state of player 2 in hard mode by 0 did not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:141:adding energy of 3 to player 2 in initial state of game mode easy is 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:141:adding energy of 3 to player 2 in initial state of game mode easy is 3 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:141:adding energy of 3 to player 2 in initial state of game mode easy is 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:143:adding energy of 3 to player 2 in initial state of game mode medium is 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:143:adding energy of 3 to player 2 in initial state of game mode medium is 3 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:143:adding energy of 3 to player 2 in initial state of game mode medium is 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:146:adding energy of -1 to player 1 in initial state of game mode easy is 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:146:adding energy of -1 to player 1 in initial state of game mode easy is 3 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:146:adding energy of -1 to player 1 in initial state of game mode easy is 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:148:adding energy of -1 to player 1 in initial state of game mode medium is 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:148:adding energy of -1 to player 1 in initial state of game mode medium is 3 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:148:adding energy of -1 to player 1 in initial state of game mode medium is 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:150:adding energy of -1 to player 1 in initial state of game mode hard is 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:150:adding energy of -1 to player 1 in initial state of game mode hard is 3 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:150:adding energy of -1 to player 1 in initial state of game mode hard is 3.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:152:adding 0 energy to player 1 in initial state of game mode easy does not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:152:adding 0 energy to player 1 in initial state of game mode easy does not change the energy is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:152:adding 0 energy to player 1 in initial state of game mode easy does not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:154:adding 0 energy to player 1 in initial state of game mode medium does not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:154:adding 0 energy to player 1 in initial state of game mode medium does not change the energy is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:154:adding 0 energy to player 1 in initial state of game mode medium does not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:156:adding 0 energy to player 1 in initial state of game mode hard does not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:156:adding 0 energy to player 1 in initial state of game mode hard does not change the energy is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:156:adding 0 energy to player 1 in initial state of game mode hard does not change the energy.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:158:adding ship of size 5 to start position 1 1 with orientation 'h' makes a ship [ (5, 1); (4, 1); (3, 1); (2, 1); (1, 1) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:158:adding ship of size 5 to start position 1 1 with orientation 'h' makes a ship [ (5, 1); (4, 1); (3, 1); (2, 1); (1, 1) ] is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:158:adding ship of size 5 to start position 1 1 with orientation 'h' makes a ship [ (5, 1); (4, 1); (3, 1); (2, 1); (1, 1) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:160:adding ship of size 4 to start position 1 1 with orientation 'h' makes a ship [ (1, 4); (1, 3); (1, 2); (1, 1) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:160:adding ship of size 4 to start position 1 1 with orientation 'h' makes a ship [ (1, 4); (1, 3); (1, 2); (1, 1) ] is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:160:adding ship of size 4 to start position 1 1 with orientation 'h' makes a ship [ (1, 4); (1, 3); (1, 2); (1, 1) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:162:adding ship of size 3 to start position 1 1 with orientation 'h' makes a ship [ (1, 3); (1, 2); (1, 1) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:162:adding ship of size 3 to start position 1 1 with orientation 'h' makes a ship [ (1, 3); (1, 2); (1, 1) ] is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:162:adding ship of size 3 to start position 1 1 with orientation 'h' makes a ship [ (1, 3); (1, 2); (1, 1) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:164:adding ship of size 2 to start position 1 1 with orientation 'h' makes a ship [ (1, 2); (1, 1) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:164:adding ship of size 2 to start position 1 1 with orientation 'h' makes a ship [ (1, 2); (1, 1) ] is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:164:adding ship of size 2 to start position 1 1 with orientation 'h' makes a ship [ (1, 2); (1, 1) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:166:adding ship of size 5 to start position 3 3 with orientation 'v' makes a ship [(3,7);(3,6);(3,5);(3,4);(3,3)].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:166:adding ship of size 5 to start position 3 3 with orientation 'v' makes a ship [(3,7);(3,6);(3,5);(3,4);(3,3)] is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:166:adding ship of size 5 to start position 3 3 with orientation 'v' makes a ship [(3,7);(3,6);(3,5);(3,4);(3,3)].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:168:adding ship of size 4 to start position 3 3 with orientation 'v' makes a ship [(3,6);(3,5);(3,4);(3,3)].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:168:adding ship of size 4 to start position 3 3 with orientation 'v' makes a ship [(3,6);(3,5);(3,4);(3,3)] is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:168:adding ship of size 4 to start position 3 3 with orientation 'v' makes a ship [(3,6);(3,5);(3,4);(3,3)].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:170:adding ship of size 3 to start position 3 3 with orientation 'v' makes a ship [(3,5);(3,4);(3,3)].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:170:adding ship of size 3 to start position 3 3 with orientation 'v' makes a ship [(3,5);(3,4);(3,3)] is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:170:adding ship of size 3 to start position 3 3 with orientation 'v' makes a ship [(3,5);(3,4);(3,3)].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:172:adding ship of size 2 to start position 3 3 with orientation 'v' makes a ship [(3,5);(3,4);(3,3)].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:172:adding ship of size 2 to start position 3 3 with orientation 'v' makes a ship [(3,5);(3,4);(3,3)] is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:172:adding ship of size 2 to start position 3 3 with orientation 'v' makes a ship [(3,5);(3,4);(3,3)].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:174:adding carrier to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:174:adding carrier to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:174:adding carrier to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:176:adding battleship to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:176:adding battleship to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:176:adding battleship to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:178:adding submarine to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:178:adding submarine to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:178:adding submarine to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:180:adding destroyer to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:180:adding destroyer to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:180:adding destroyer to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:182:adding destroyer to an initial state in easy mode to 1 1 to player 2's ships will produce a state in which player 2 has a ship occupying the first column of the grid.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:182:adding destroyer to an initial state in easy mode to 1 1 to player 2's ships will produce a state in which player 2 has a ship occupying the first column of the grid is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:182:adding destroyer to an initial state in easy mode to 1 1 to player 2's ships will produce a state in which player 2 has a ship occupying the first column of the grid.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:184:adding a single coordinate bomb to player 2's bomb list to an initial state in easy mode will produce a state in which player 2 has one element in their bomb list and energy of -1.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:184:adding a single coordinate bomb to player 2's bomb list to an initial state in easy mode will produce a state in which player 2 has one element in their bomb list and energy of -1 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:184:adding a single coordinate bomb to player 2's bomb list to an initial state in easy mode will produce a state in which player 2 has one element in their bomb list and energy of -1.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:186:adding a column bomb in column 1 to player 2's bomb list to an initial state in easy mode will produce a state in which player 2 has elements (5,1), (4,1), (3,1), (2,1), (1, 1) in their bomb list and energy of -4.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:186:adding a column bomb in column 1 to player 2's bomb list to an initial state in easy mode will produce a state in which player 2 has elements (5,1), (4,1), (3,1), (2,1), (1, 1) in their bomb list and energy of -4 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:186:adding a column bomb in column 1 to player 2's bomb list to an initial state in easy mode will produce a state in which player 2 has elements (5,1), (4,1), (3,1), (2,1), (1, 1) in their bomb list and energy of -4.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:188:adding a cross bomb with center (3, 3) to player 2's bomb list to an initial state in easy mode will produce a state in which player 2 has elements (3, 1), (3, 2), (3, 4), (3, 5), (1, 3), (2, 3), (4, 3), (5, 3) in their bomb list and energy of -1.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:188:adding a cross bomb with center (3, 3) to player 2's bomb list to an initial state in easy mode will produce a state in which player 2 has elements (3, 1), (3, 2), (3, 4), (3, 5), (1, 3), (2, 3), (4, 3), (5, 3) in their bomb list and energy of -1 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:188:adding a cross bomb with center (3, 3) to player 2's bomb list to an initial state in easy mode will produce a state in which player 2 has elements (3, 1), (3, 2), (3, 4), (3, 5), (1, 3), (2, 3), (4, 3), (5, 3) in their bomb list and energy of -1.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:190:adding a diagonal bomb to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (1, 1), (2, 2), (3, 3), (4, 4), (5, 5), (1, 5), (2, 4), (4, 2), (5, 1) in their bomb list and energy of -1.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:190:adding a diagonal bomb to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (1, 1), (2, 2), (3, 3), (4, 4), (5, 5), (1, 5), (2, 4), (4, 2), (5, 1) in their bomb list and energy of -1 is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:190:adding a diagonal bomb to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (1, 1), (2, 2), (3, 3), (4, 4), (5, 5), (1, 5), (2, 4), (4, 2), (5, 1) in their bomb list and energy of -1.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:192:grid representation of initialized easy game is [[Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location]; [Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location]; [Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location]; [Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location]; [Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:192:grid representation of initialized easy game is [[Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location]; [Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location]; [Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location]; [Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location]; [Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location] is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:192:grid representation of initialized easy game is [[Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location]; [Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location]; [Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location]; [Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location]; [Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location; Grid.make_location].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:194:carrier ship placed vertically on (1, 1) on easy mode is not out of bounds.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:194:carrier ship placed vertically on (1, 1) on easy mode is not out of bounds is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:194:carrier ship placed vertically on (1, 1) on easy mode is not out of bounds.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:196:carrier ship placed horizontally on (1, 1) on easy mode is not out of bounds.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:196:carrier ship placed horizontally on (1, 1) on easy mode is not out of bounds is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:196:carrier ship placed horizontally on (1, 1) on easy mode is not out of bounds.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:198:passing in a list of ship coordinates for player 1 that do not have any coordinates in common with existing ships in player 1's ship will make collision_detect false.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:198:passing in a list of ship coordinates for player 1 that do not have any coordinates in common with existing ships in player 1's ship will make collision_detect false is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:198:passing in a list of ship coordinates for player 1 that do not have any coordinates in common with existing ships in player 1's ship will make collision_detect false.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:200:[make_ship h carrier (1,1)] yields [ (1, 1); (1, 2); (1, 3); (1, 4); (1, 5)  ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:200:[make_ship h carrier (1,1)] yields [ (1, 1); (1, 2); (1, 3); (1, 4); (1, 5)  ] is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:200:[make_ship h carrier (1,1)] yields [ (1, 1); (1, 2); (1, 3); (1, 4); (1, 5)  ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:202:[make_ship h battleship (1,1)] yields [ (1, 1); (1, 2); (1, 3); (1, 4)) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:202:[make_ship h battleship (1,1)] yields [ (1, 1); (1, 2); (1, 3); (1, 4)) ] is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:202:[make_ship h battleship (1,1)] yields [ (1, 1); (1, 2); (1, 3); (1, 4)) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:204:[make_ship h submarine (1,1)] yields [ (1, 1); (1, 2); (1, 3) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:204:[make_ship h submarine (1,1)] yields [ (1, 1); (1, 2); (1, 3) ] is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:204:[make_ship h submarine (1,1)] yields [ (1, 1); (1, 2); (1, 3) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:206:[make_ship h destroyer (1,1)] yields [(1, 2); (1, 1) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:206:[make_ship h destroyer (1,1)] yields [(1, 2); (1, 1) ] is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:206:[make_ship h destroyer (1,1)] yields [(1, 2); (1, 1) ].
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:208:[check_win game_st1 1] yields true.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:208:[check_win game_st1 1] yields true is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:208:[check_win game_st1 1] yields true.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:210:[check_win game_st1 1] yields false.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:210:[check_win game_st1 1] yields false is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:210:[check_win game_st1 1] yields false.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Start test test suite for A2:211:[check_win game_st1 2] yields true.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: Test test suite for A2:211:[check_win game_st1 2] yields true is successful.
+2022-05-15T22:16:33+00:00 dhcp-vl2041-36422.eduroam.cornell.edu#01 I: End test test suite for A2:211:[check_win game_st1 2] yields true.

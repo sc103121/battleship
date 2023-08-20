@@ -1,0 +1,309 @@
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:1:Parsing the input string 'medium' yields Medium.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:1:Parsing the input string 'medium' yields Medium is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:1:Parsing the input string 'medium' yields Medium.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:3:Parsing the input string 'easy' yields Easy.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:3:Parsing the input string 'easy' yields Easy is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:3:Parsing the input string 'easy' yields Easy.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:5:Parsing the input string 'hard' yields Hard.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:5:Parsing the input string 'hard' yields Hard is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:5:Parsing the input string 'hard' yields Hard.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:7:Parsing the input string 'energy' yields Energy.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:7:Parsing the input string 'energy' yields Energy is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:7:Parsing the input string 'energy' yields Energy.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:9:Parsing the input string '  end   ' yields End_Turn.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:9:Parsing the input string '  end   ' yields End_Turn is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:9:Parsing the input string '  end   ' yields End_Turn.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:10:Parsing the input string 'energy    ' yields Energy.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:10:Parsing the input string 'energy    ' yields Energy is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:10:Parsing the input string 'energy    ' yields Energy.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:13:Parsing the input string 'carrier 6 7 v' yields (Place_Ship ((6, 7), 'carrier', 'v')).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:13:Parsing the input string 'carrier 6 7 v' yields (Place_Ship ((6, 7), 'carrier', 'v')) is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:13:Parsing the input string 'carrier 6 7 v' yields (Place_Ship ((6, 7), 'carrier', 'v')).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:15:Parsing the input string 'battleship 6 7 v' yields (Place_Ship ((6, 7), 'battleship', 'v')).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:15:Parsing the input string 'battleship 6 7 v' yields (Place_Ship ((6, 7), 'battleship', 'v')) is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:15:Parsing the input string 'battleship 6 7 v' yields (Place_Ship ((6, 7), 'battleship', 'v')).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:17:Parsing the input string 'submarine 6 7 v' yields (Place_Ship ((6, 7), 'submarine', 'v')).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:17:Parsing the input string 'submarine 6 7 v' yields (Place_Ship ((6, 7), 'submarine', 'v')) is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:17:Parsing the input string 'submarine 6 7 v' yields (Place_Ship ((6, 7), 'submarine', 'v')).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:20:Parsing the input string 'bomb_diagonal' yields Bomb_diagonal.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:20:Parsing the input string 'bomb_diagonal' yields Bomb_diagonal is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:20:Parsing the input string 'bomb_diagonal' yields Bomb_diagonal.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:22:Parsing the input string 'bomb 1 1' yields (Bomb (1, 1)).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:22:Parsing the input string 'bomb 1 1' yields (Bomb (1, 1)) is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:22:Parsing the input string 'bomb 1 1' yields (Bomb (1, 1)).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:24:Parsing the input string 'bomb_row 3' yields (Bomb_row 3).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:24:Parsing the input string 'bomb_row 3' yields (Bomb_row 3) is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:24:Parsing the input string 'bomb_row 3' yields (Bomb_row 3).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:27:Parsing the input string ' bomb_row 5' yields (Bomb_row 3).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:27:Parsing the input string ' bomb_row 5' yields (Bomb_row 3) is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:27:Parsing the input string ' bomb_row 5' yields (Bomb_row 3).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:29:Parsing the input string '   bomb_cross     5    5   ' yields (Bomb_cross 5 5).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:29:Parsing the input string '   bomb_cross     5    5   ' yields (Bomb_cross 5 5) is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:29:Parsing the input string '   bomb_cross     5    5   ' yields (Bomb_cross 5 5).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:31:Parsing the input string '   bomb_square     5    5   ' yields (Bomb_square 5 5).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:31:Parsing the input string '   bomb_square     5    5   ' yields (Bomb_square 5 5) is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:31:Parsing the input string '   bomb_square     5    5   ' yields (Bomb_square 5 5).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:33:Parsing the input string '  bomb_diagonal  ' yields (Bomb_diagonal).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:33:Parsing the input string '  bomb_diagonal  ' yields (Bomb_diagonal) is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:33:Parsing the input string '  bomb_diagonal  ' yields (Bomb_diagonal).
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:35:Parsing the input string 'easy 10' yields invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:35:Parsing the input string 'easy 10' yields invalid_format exception is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:35:Parsing the input string 'easy 10' yields invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:38:Parsing the input string 'end, ' yields invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:38:Parsing the input string 'end, ' yields invalid_format exception is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:38:Parsing the input string 'end, ' yields invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:39:Parsing the input string 'end_turn' yields invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:39:Parsing the input string 'end_turn' yields invalid_format exception is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:39:Parsing the input string 'end_turn' yields invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:42:Parsing the input string 'energy 10' yields invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:42:Parsing the input string 'energy 10' yields invalid_format exception is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:42:Parsing the input string 'energy 10' yields invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:44:Parsing the input string 'Bomb_diagonal' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:44:Parsing the input string 'Bomb_diagonal' raises invalid_format exception is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:44:Parsing the input string 'Bomb_diagonal' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:45:Parsing the input string 'bomb diagonal' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:45:Parsing the input string 'bomb diagonal' raises invalid_format exception is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:45:Parsing the input string 'bomb diagonal' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:47:Parsing the input string 'submarine 3 3' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:47:Parsing the input string 'submarine 3 3' raises invalid_format exception is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:47:Parsing the input string 'submarine 3 3' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:49:Parsing the input string 'destroyer 5 5 V' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:49:Parsing the input string 'destroyer 5 5 V' raises invalid_format exception is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:49:Parsing the input string 'destroyer 5 5 V' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:50:Parsing the input string 'destroyer' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:50:Parsing the input string 'destroyer' raises invalid_format exception is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:50:Parsing the input string 'destroyer' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:53:Parsing the input string 'submarine 6 7 h v' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:53:Parsing the input string 'submarine 6 7 h v' raises invalid_format exception is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:53:Parsing the input string 'submarine 6 7 h v' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:55:Parsing the input string 'bomb 6' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:55:Parsing the input string 'bomb 6' raises invalid_format exception is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:55:Parsing the input string 'bomb 6' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:57:Parsing the input string 'bomb 5,5' raises invalid_format exception.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:57:Parsing the input string 'bomb 5,5' raises invalid_format exception is successful.
+2022-05-08T15:30:13+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:57:Parsing the input string 'bomb 5,5' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:60:Parsing the input string 'bomb_col 4 5' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:60:Parsing the input string 'bomb_col 4 5' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:60:Parsing the input string 'bomb_col 4 5' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:61:Parsing the input string 'bomb_col a' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:61:Parsing the input string 'bomb_col a' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:61:Parsing the input string 'bomb_col a' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:64:Parsing the input string 'bomb_row 9, bomb_row 8' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:64:Parsing the input string 'bomb_row 9, bomb_row 8' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:64:Parsing the input string 'bomb_row 9, bomb_row 8' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:66:Parsing the input string 'Bomb_col 5' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:66:Parsing the input string 'Bomb_col 5' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:66:Parsing the input string 'Bomb_col 5' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:68:Parsing the input string 'Bomb_cross 3' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:68:Parsing the input string 'Bomb_cross 3' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:68:Parsing the input string 'Bomb_cross 3' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:70:Parsing the input string '  Bomb_cross ' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:70:Parsing the input string '  Bomb_cross ' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:70:Parsing the input string '  Bomb_cross ' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:73:Parsing the input string 'Bomb_square 3' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:73:Parsing the input string 'Bomb_square 3' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:73:Parsing the input string 'Bomb_square 3' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:74:Parsing the input string '   Bomb_square 3 3 h' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:74:Parsing the input string '   Bomb_square 3 3 h' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:74:Parsing the input string '   Bomb_square 3 3 h' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:76:Parsing the input string 'Bomb-square 3 3' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:76:Parsing the input string 'Bomb-square 3 3' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:76:Parsing the input string 'Bomb-square 3 3' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:77:Parsing the input string '  Bomb   square   7   7   ' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:77:Parsing the input string '  Bomb   square   7   7   ' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:77:Parsing the input string '  Bomb   square   7   7   ' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:78:Parsing the input string 'Bomb_diagonal 4 4 ' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:78:Parsing the input string 'Bomb_diagonal 4 4 ' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:78:Parsing the input string 'Bomb_diagonal 4 4 ' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:79:Parsing the input string '   Bomb_diagonal 4 4 h' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:79:Parsing the input string '   Bomb_diagonal 4 4 h' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:79:Parsing the input string '   Bomb_diagonal 4 4 h' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:80:Parsing the input string '  Bomb_diagonal 5 ' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:80:Parsing the input string '  Bomb_diagonal 5 ' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:80:Parsing the input string '  Bomb_diagonal 5 ' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:81:Parsing the input string 'Bomb-diagonal ' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:81:Parsing the input string 'Bomb-diagonal ' raises invalid_format exception is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:81:Parsing the input string 'Bomb-diagonal ' raises invalid_format exception.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:84:easy mode has max bomb of 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:84:easy mode has max bomb of 3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:84:easy mode has max bomb of 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:87:bombs list is empty for player 1 initially in easy mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:87:bombs list is empty for player 1 initially in easy mode is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:87:bombs list is empty for player 1 initially in easy mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:90:neither player has won at the beginning of the game in easy mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:90:neither player has won at the beginning of the game in easy mode is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:90:neither player has won at the beginning of the game in easy mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:91:both players have 0 energy at the beginning of the game in easy mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:91:both players have 0 energy at the beginning of the game in easy mode is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:91:both players have 0 energy at the beginning of the game in easy mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:94:medium mode has max bomb of 5.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:94:medium mode has max bomb of 5 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:94:medium mode has max bomb of 5.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:95:ships list is empty for both players initially in medium mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:95:ships list is empty for both players initially in medium mode is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:95:ships list is empty for both players initially in medium mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:98:bombs list is empty for both players initially in medium mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:98:bombs list is empty for both players initially in medium mode is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:98:bombs list is empty for both players initially in medium mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:100:player 2 has not won at the beginning of the game in medium mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:100:player 2 has not won at the beginning of the game in medium mode is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:100:player 2 has not won at the beginning of the game in medium mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:102:player 2 has 0 energy at the beginning of the game in medium mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:102:player 2 has 0 energy at the beginning of the game in medium mode is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:102:player 2 has 0 energy at the beginning of the game in medium mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:104:hard mode has max bomb of 8.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:104:hard mode has max bomb of 8 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:104:hard mode has max bomb of 8.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:106:ships list is empty for player 2 in hard mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:106:ships list is empty for player 2 in hard mode is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:106:ships list is empty for player 2 in hard mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:108:bomb list is empty for player 2 in hard mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:108:bomb list is empty for player 2 in hard mode is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:108:bomb list is empty for player 2 in hard mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:110:player 2 has not won at the beginning of the game in hard mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:110:player 2 has not won at the beginning of the game in hard mode is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:110:player 2 has not won at the beginning of the game in hard mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:112:player 2 has 0 energy at the beginning of the game in hard mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:112:player 2 has 0 energy at the beginning of the game in hard mode is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:112:player 2 has 0 energy at the beginning of the game in hard mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:114:ship type of 'battleship' is Battleship.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:114:ship type of 'battleship' is Battleship is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:114:ship type of 'battleship' is Battleship.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:116:ship type of 'destroyer' is Destroyer.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:116:ship type of 'destroyer' is Destroyer is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:116:ship type of 'destroyer' is Destroyer.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:118:size of a carrier ship is 5.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:118:size of a carrier ship is 5 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:118:size of a carrier ship is 5.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:121:size of a destroyer ship is 2.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:121:size of a destroyer ship is 2 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:121:size of a destroyer ship is 2.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:122:energy of initial state is 0 for player 1 in easy mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:122:energy of initial state is 0 for player 1 in easy mode is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:122:energy of initial state is 0 for player 1 in easy mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:125:energy of initial state is 0 for player 2 in medium mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:125:energy of initial state is 0 for player 2 in medium mode is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:125:energy of initial state is 0 for player 2 in medium mode.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:128:changing the energy of initial state of player 1 in easy mode by 3 changed the energy to 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:128:changing the energy of initial state of player 1 in easy mode by 3 changed the energy to 3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:128:changing the energy of initial state of player 1 in easy mode by 3 changed the energy to 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:129:changing the energy of initial state of player 2 in easy mode by 3 changed the energy to 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:129:changing the energy of initial state of player 2 in easy mode by 3 changed the energy to 3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:129:changing the energy of initial state of player 2 in easy mode by 3 changed the energy to 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:131:changing the energy of initial state of player 2 in medium mode by 3 changed the energy to 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:131:changing the energy of initial state of player 2 in medium mode by 3 changed the energy to 3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:131:changing the energy of initial state of player 2 in medium mode by 3 changed the energy to 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:132:changing the energy of initial state of player 1 in hard mode by 3 changed the energy to 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:132:changing the energy of initial state of player 1 in hard mode by 3 changed the energy to 3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:132:changing the energy of initial state of player 1 in hard mode by 3 changed the energy to 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:133:changing the energy of initial state of player 2 in hard mode by 3 changed the energy to 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:133:changing the energy of initial state of player 2 in hard mode by 3 changed the energy to 3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:133:changing the energy of initial state of player 2 in hard mode by 3 changed the energy to 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:135:changing the energy of initial state of player 2 in easy mode by -3 changed the energy to -3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:135:changing the energy of initial state of player 2 in easy mode by -3 changed the energy to -3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:135:changing the energy of initial state of player 2 in easy mode by -3 changed the energy to -3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:138:changing the energy of initial state of player 1 in hard mode by -3 changed the energy to -3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:138:changing the energy of initial state of player 1 in hard mode by -3 changed the energy to -3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:138:changing the energy of initial state of player 1 in hard mode by -3 changed the energy to -3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:140:changing the energy of initial state of player 1 in easy mode by 0 did not change the energy.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:140:changing the energy of initial state of player 1 in easy mode by 0 did not change the energy is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:140:changing the energy of initial state of player 1 in easy mode by 0 did not change the energy.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:142:changing the energy of initial state of player 1 in medui mode by 0 did not change the energy.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:142:changing the energy of initial state of player 1 in medui mode by 0 did not change the energy is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:142:changing the energy of initial state of player 1 in medui mode by 0 did not change the energy.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:144:changing the energy of initial state of player 1 in hard mode by 0 did not change the energy.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:144:changing the energy of initial state of player 1 in hard mode by 0 did not change the energy is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:144:changing the energy of initial state of player 1 in hard mode by 0 did not change the energy.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:146:adding energy of 3 to player 1 in initial state of game mode easy is 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:146:adding energy of 3 to player 1 in initial state of game mode easy is 3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:146:adding energy of 3 to player 1 in initial state of game mode easy is 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:148:adding energy of 3 to player 1 in initial state of game mode medium is 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:148:adding energy of 3 to player 1 in initial state of game mode medium is 3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:148:adding energy of 3 to player 1 in initial state of game mode medium is 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:151:adding energy of 3 to player 2 in initial state of game mode hard is 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:151:adding energy of 3 to player 2 in initial state of game mode hard is 3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:151:adding energy of 3 to player 2 in initial state of game mode hard is 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:152:adding energy of -1 to player 1 in initial state of game mode easy is 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:152:adding energy of -1 to player 1 in initial state of game mode easy is 3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:152:adding energy of -1 to player 1 in initial state of game mode easy is 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:154:adding energy of -1 to player 1 in initial state of game mode medium is 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:154:adding energy of -1 to player 1 in initial state of game mode medium is 3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:154:adding energy of -1 to player 1 in initial state of game mode medium is 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:157:adding energy of -1 to player 2 in initial state of game mode hard is 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:157:adding energy of -1 to player 2 in initial state of game mode hard is 3 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:157:adding energy of -1 to player 2 in initial state of game mode hard is 3.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:159:adding 0 energy to player 2 in initial state of game mode easy does not change the energy.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:159:adding 0 energy to player 2 in initial state of game mode easy does not change the energy is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:159:adding 0 energy to player 2 in initial state of game mode easy does not change the energy.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:160:adding 0 energy to player 1 in initial state of game mode medium does not change the energy.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:160:adding 0 energy to player 1 in initial state of game mode medium does not change the energy is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:160:adding 0 energy to player 1 in initial state of game mode medium does not change the energy.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:162:adding 0 energy to player 1 in initial state of game mode hard does not change the energy.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:162:adding 0 energy to player 1 in initial state of game mode hard does not change the energy is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:162:adding 0 energy to player 1 in initial state of game mode hard does not change the energy.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:165:adding ship of size 5 to start position 1 1 with orientation 'v' makes a ship [ (5, 1); (4, 1); (3, 1); (2, 1); (1, 1) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:165:adding ship of size 5 to start position 1 1 with orientation 'v' makes a ship [ (5, 1); (4, 1); (3, 1); (2, 1); (1, 1) ] is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:165:adding ship of size 5 to start position 1 1 with orientation 'v' makes a ship [ (5, 1); (4, 1); (3, 1); (2, 1); (1, 1) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:166:adding ship of size 4 to start position 1 1 with orientation 'h' makes a ship [ (1, 4); (1, 3); (1, 2); (1, 1) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:166:adding ship of size 4 to start position 1 1 with orientation 'h' makes a ship [ (1, 4); (1, 3); (1, 2); (1, 1) ] is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:166:adding ship of size 4 to start position 1 1 with orientation 'h' makes a ship [ (1, 4); (1, 3); (1, 2); (1, 1) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:168:adding ship of size 3 to start position 1 1 with orientation 'h' makes a ship [ (1, 3); (1, 2); (1, 1) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:168:adding ship of size 3 to start position 1 1 with orientation 'h' makes a ship [ (1, 3); (1, 2); (1, 1) ] is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:168:adding ship of size 3 to start position 1 1 with orientation 'h' makes a ship [ (1, 3); (1, 2); (1, 1) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:171:adding ship of size 2 to start position 1 1 with orientation 'v' makes a ship [ (2, 1); (1, 1) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:171:adding ship of size 2 to start position 1 1 with orientation 'v' makes a ship [ (2, 1); (1, 1) ] is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:171:adding ship of size 2 to start position 1 1 with orientation 'v' makes a ship [ (2, 1); (1, 1) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:174:adding ship of size 4 to start position 3 3 with orientation 'v' makes a ship [(3,6);(3,5);(3,4);(3,3)].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:174:adding ship of size 4 to start position 3 3 with orientation 'v' makes a ship [(3,6);(3,5);(3,4);(3,3)] is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:174:adding ship of size 4 to start position 3 3 with orientation 'v' makes a ship [(3,6);(3,5);(3,4);(3,3)].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:176:adding ship of size 3 to start position 3 3 with orientation 'v' makes a ship [(3,5);(3,4);(3,3)].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:176:adding ship of size 3 to start position 3 3 with orientation 'v' makes a ship [(3,5);(3,4);(3,3)] is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:176:adding ship of size 3 to start position 3 3 with orientation 'v' makes a ship [(3,5);(3,4);(3,3)].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:178:adding ship of size 2 to start position 3 3 with orientation 'v' makes a ship [(3,5);(3,4);(3,3)].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:178:adding ship of size 2 to start position 3 3 with orientation 'v' makes a ship [(3,5);(3,4);(3,3)] is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:178:adding ship of size 2 to start position 3 3 with orientation 'v' makes a ship [(3,5);(3,4);(3,3)].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:181:adding carrier to an initial state in easy mode to 1 1 to player 2's ships will produce a state in which player 2 has a ship occupying the first row of the grid.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:181:adding carrier to an initial state in easy mode to 1 1 to player 2's ships will produce a state in which player 2 has a ship occupying the first row of the grid is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:181:adding carrier to an initial state in easy mode to 1 1 to player 2's ships will produce a state in which player 2 has a ship occupying the first row of the grid.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:183:adding battleship to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 2 has a ship occupying the first row of the grid.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:183:adding battleship to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 2 has a ship occupying the first row of the grid is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:183:adding battleship to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 2 has a ship occupying the first row of the grid.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:185:adding submarine to an initial state in easy mode to 1 1 to player 2's ships will produce a state in which player 2 has a ship occupying the first row of the grid.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:185:adding submarine to an initial state in easy mode to 1 1 to player 2's ships will produce a state in which player 2 has a ship occupying the first row of the grid is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:185:adding submarine to an initial state in easy mode to 1 1 to player 2's ships will produce a state in which player 2 has a ship occupying the first row of the grid.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:186:adding destroyer to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:186:adding destroyer to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:186:adding destroyer to an initial state in easy mode to 1 1 to player 1's ships will produce a state in which player 1 has a ship occupying the first row of the grid.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:189:adding a single coordinate bomb to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has one element in their bomb list and energy of -1.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:189:adding a single coordinate bomb to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has one element in their bomb list and energy of -1 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:189:adding a single coordinate bomb to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has one element in their bomb list and energy of -1.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:191:adding a column bomb in column 1 to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (5,1), (4,1), (3,1), (2,1), (1, 1) in their bomb list and energy of -4.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:191:adding a column bomb in column 1 to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (5,1), (4,1), (3,1), (2,1), (1, 1) in their bomb list and energy of -4 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:191:adding a column bomb in column 1 to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (5,1), (4,1), (3,1), (2,1), (1, 1) in their bomb list and energy of -4.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:193:adding a cross bomb with center (3, 3) to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (3, 1), (3, 2), (3, 4), (3, 5), (1, 3), (2, 3), (4, 3), (5, 3) in their bomb list and energy of -1.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:193:adding a cross bomb with center (3, 3) to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (3, 1), (3, 2), (3, 4), (3, 5), (1, 3), (2, 3), (4, 3), (5, 3) in their bomb list and energy of -1 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:193:adding a cross bomb with center (3, 3) to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (3, 1), (3, 2), (3, 4), (3, 5), (1, 3), (2, 3), (4, 3), (5, 3) in their bomb list and energy of -1.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:195:adding a single row bomb in row 1 to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (1, 1), (1, 2), (1, 3), (1, 4), (1, 5) in their bomb list and energy of -4.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:195:adding a single row bomb in row 1 to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (1, 1), (1, 2), (1, 3), (1, 4), (1, 5) in their bomb list and energy of -4 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:195:adding a single row bomb in row 1 to player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (1, 1), (1, 2), (1, 3), (1, 4), (1, 5) in their bomb list and energy of -4.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:197:adding a single square bomb to (3, 3) in player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (3, 2), (3, 3), (3, 4), (2, 2), (2, 3), (2, 4), (4, 2), (4, 3), (4, 4) in their bomb list and energy of -1.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:197:adding a single square bomb to (3, 3) in player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (3, 2), (3, 3), (3, 4), (2, 2), (2, 3), (2, 4), (4, 2), (4, 3), (4, 4) in their bomb list and energy of -1 is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:197:adding a single square bomb to (3, 3) in player 1's bomb list to an initial state in easy mode will produce a state in which player 1 has elements (3, 2), (3, 3), (3, 4), (2, 2), (2, 3), (2, 4), (4, 2), (4, 3), (4, 4) in their bomb list and energy of -1.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:200:[make_ship h battleship (1,1)] yields [ (1, 1); (1, 2); (1, 3); (1, 4)) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:200:[make_ship h battleship (1,1)] yields [ (1, 1); (1, 2); (1, 3); (1, 4)) ] is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:200:[make_ship h battleship (1,1)] yields [ (1, 1); (1, 2); (1, 3); (1, 4)) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:203:[make_ship h submarine (1,1)] yields [ (1, 1); (2, 1); (3, 1) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:203:[make_ship h submarine (1,1)] yields [ (1, 1); (2, 1); (3, 1) ] is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:203:[make_ship h submarine (1,1)] yields [ (1, 1); (2, 1); (3, 1) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:204:[make_ship h destroyer (1,1)] yields [(1, 2); (1, 1) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:204:[make_ship h destroyer (1,1)] yields [(1, 2); (1, 1) ] is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:204:[make_ship h destroyer (1,1)] yields [(1, 2); (1, 1) ].
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:207:[check_win game_st1 2] yields false.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:207:[check_win game_st1 2] yields false is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:207:[check_win game_st1 2] yields false.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:208:[check_win game_st1 1] yields false.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:208:[check_win game_st1 1] yields false is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:208:[check_win game_st1 1] yields false.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Start test test suite for A2:209:[check_win game_st1 2] yields true.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: Test test suite for A2:209:[check_win game_st1 2] yields true is successful.
+2022-05-08T15:30:14+00:00 dhcp-vl2042-22991.redrover.cornell.edu#02 I: End test test suite for A2:209:[check_win game_st1 2] yields true.

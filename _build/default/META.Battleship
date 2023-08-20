@@ -1,0 +1,6 @@
+description = ""
+requires = "ANSITerminal"
+archive(byte) = "battleship.cma"
+archive(native) = "battleship.cmxa"
+plugin(byte) = "battleship.cma"
+plugin(native) = "battleship.cmxs"

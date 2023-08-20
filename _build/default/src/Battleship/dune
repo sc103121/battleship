@@ -1,0 +1,4 @@
+(library
+ (name battleship)
+ (public_name Battleship)
+ (libraries ANSITerminal))

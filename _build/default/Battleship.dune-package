@@ -1,0 +1,81 @@
+(lang dune 3.0)
+(name Battleship)
+(sections (lib .) (libexec .) (doc ../../doc/Battleship))
+(files
+ (lib
+  (META
+   author.ml
+   author.mli
+   battleship.a
+   battleship.cma
+   battleship.cmi
+   battleship.cmt
+   battleship.cmx
+   battleship.cmxa
+   battleship.ml
+   battleship__Author.cmi
+   battleship__Author.cmt
+   battleship__Author.cmti
+   battleship__Author.cmx
+   battleship__Battleship_game.cmi
+   battleship__Battleship_game.cmt
+   battleship__Battleship_game.cmti
+   battleship__Battleship_game.cmx
+   battleship__Command.cmi
+   battleship__Command.cmt
+   battleship__Command.cmti
+   battleship__Command.cmx
+   battleship__Grid.cmi
+   battleship__Grid.cmt
+   battleship__Grid.cmti
+   battleship__Grid.cmx
+   battleship_game.ml
+   battleship_game.mli
+   command.ml
+   command.mli
+   dune-package
+   grid.ml
+   grid.mli
+   opam))
+ (libexec (battleship.cmxs))
+ (doc (README.md)))
+(library
+ (name Battleship)
+ (kind normal)
+ (archives (byte battleship.cma) (native battleship.cmxa))
+ (plugins (byte battleship.cma) (native battleship.cmxs))
+ (native_archives battleship.a)
+ (requires ANSITerminal)
+ (main_module_name Battleship)
+ (modes byte native)
+ (modules
+  (wrapped
+   (main_module_name Battleship)
+   (modules
+    ((name Author)
+     (obj_name battleship__Author)
+     (visibility public)
+     (impl)
+     (intf))
+    ((name Battleship_game)
+     (obj_name battleship__Battleship_game)
+     (visibility public)
+     (impl)
+     (intf))
+    ((name Command)
+     (obj_name battleship__Command)
+     (visibility public)
+     (impl)
+     (intf))
+    ((name Grid)
+     (obj_name battleship__Grid)
+     (visibility public)
+     (impl)
+     (intf)))
+   (alias_module
+    (name Battleship)
+    (obj_name battleship)
+    (visibility public)
+    (kind alias)
+    (impl))
+   (wrapped true))))
