@@ -1,4 +1,4 @@
-# Battleship Text-based Game on OCaml
+# Battleship: Text-based Game on OCaml
 
 Developer: Shawn Chen, Clare Daggett, Richard Jin, Alexandra Kushnirsky
 
